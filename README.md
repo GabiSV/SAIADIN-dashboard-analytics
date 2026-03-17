@@ -14,8 +14,11 @@ Visualização do dashboard de fases processuais:
 5. Tabela detalhada com informações dos contratos
 6. Visualização da última fase processual
 ## Funil de acionamento - Sprint 2
-Visualização do dashboard do funil de acionamentos:
-Indicadores de KPIs
+Visualização das etapas do processo de acionamento:
+1. Quantidade de contratos em cada etapa
+2. Taxa de conversão entre etapas
+3. Filtros por usuário
+4. FIltros de canal de acionamento
 ## Dashboard de Resoluções - Sprint 3
 Visualização do dashboard de resoluções: 
 1. Resoluções por fase processaul
@@ -23,7 +26,8 @@ Visualização do dashboard de resoluções:
 3. Resolução Direta ou Indireta
 4. Tipos de Resolução
 ## Dashboard Comparativo Mensal - Sprint 4
-
-
-
-Visualização do dashboard Comparativo Mensal
+1. Comparação entre mês atual e mês anterior
+2. Indicadores de crescimento ou queda
+3. Comparação de volume de contratos acionados
+4. Análise comparativa dos funis de acionamento
+5. Visualização do dashboard Comparativo Mensal
